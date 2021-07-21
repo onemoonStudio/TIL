@@ -1,4 +1,4 @@
-# Observable 공식문서 공부 _ 1
+# Rx Document 1
 
 ### Observable
 
@@ -35,3 +35,4 @@ Single은 위의 메서드를 단 한번만 호출한다, 다시말해서 하나
 http://reactivex.io/documentation/observable.html
 
 http://reactivex.io/documentation/single.html
+
